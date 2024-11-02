@@ -19,5 +19,5 @@ The principle of operation is taken from the above modules. However, Universal M
 The changes in cfg.db are done using the Displax method:
 confnames -> it_iliad -> 2124 -> confmap -> 2124_as_hash -> WILDCARD (0) / PTCRB (20001) / PTCRB_ROW (20005) -> it_iliad_2124_hash
 And patching of cfg.db itself is done with sqlite3 (idea like andrew_z1, but he used his own binary and patched only these mcc countries - 250 255 257 400 401 282 283 289).
-andrew_z1 @ 05.03.24, 08:03 *
-at the moment after the update you need to disable or uninstall the module, reboot the phone, install the module again from the storage (Magisk saves modules in the Downloads folder) and reboot again.
+
+* at the moment after the update you need to disable or uninstall the module, reboot the phone, install the module again from the storage (Magisk saves modules in the Downloads folder) and reboot again.
