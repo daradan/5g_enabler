@@ -1,17 +1,17 @@
 # 5g_enabler
 Universal Modem Fix for 5G enable on Pixel Tensor
 
-###Technical Requirements:
+### Technical Requirements:
 Magisk 20.4+ | Device on SoC Google Tensor ( Pixel: 6, 6P, 6a, 7, 7P, 7a, 8, 8P )
-###Description of operation, functionality:
+### Description of operation, functionality:
 5G activation for unsupported countries and operators.
 Improved signal quality and strength in some situations.
 Speed up CS fallback in some situations.
 Can be used in combination with modules for VoLTE/VoWiFi activation if you need these modes.
 
-###Note: In network settings you may see an additional option “Allow 2G networks”. Be sure to activate this option if you need to ditch to 2G while in use.
+### Note: In network settings you may see an additional option “Allow 2G networks”. Be sure to activate this option if you need to ditch to 2G while in use.
 
-###The module is inspired by the following modules and the working principle is taken from them (thanks to the authors):
+### The module is inspired by the following modules and the working principle is taken from them (thanks to the authors):
 Universal Modem Fix
 Pixel-mdm-patch
 
